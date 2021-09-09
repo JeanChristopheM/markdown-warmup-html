@@ -10,6 +10,9 @@ h1,h2 {
 h4 {
     padding-top: 2rem;
 }
+td, th {
+    padding:.3rem;
+}
 body {
     background-color:hsl(125, 0%, 10%);
     color:hsl(125, 0%, 80%);
@@ -29,4 +32,11 @@ nav {
 nav>* {
     align-self: center;
     justify-self: center;
+}
+a, a:visited, a:active {
+    text-decoration: none;
+    color:inherit;
+}
+a:hover{
+    color:lightcoral;
 }
