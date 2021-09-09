@@ -1,0 +1,32 @@
+*:not(ul){
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2 {
+    padding: .5rem;
+}
+h4 {
+    padding-top: 2rem;
+}
+body {
+    background-color:hsl(125, 0%, 10%);
+    color:hsl(125, 0%, 80%);
+    max-width:1000px;
+    margin:0 auto;
+}
+div, nav {
+    width:100%;
+    padding:.5rem;
+    border:1px solid white;
+    margin: .5rem;
+}
+nav {
+    display: grid;
+    grid-template-columns: 1fr min-content 1fr min-content 1fr;
+}
+nav>* {
+    align-self: center;
+    justify-self: center;
+}
