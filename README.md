@@ -4,6 +4,8 @@ Here I learned the basics of HTML & CSS together.
 
 You can check out the page [HERE](https://jeanchristophem.github.io/markdown-warmup-html/)
 
+Or check out the original markdown repo [HERE](https://github.com/JeanChristopheM/markdown-challenge)
+
 Or the original markdown just below this text ⬇️
 
 # Molhant Jean-Christophe
